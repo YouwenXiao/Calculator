@@ -1,10 +1,10 @@
 package com.laojiu38.homework.calc;
 /**
- * ¼Ó·¨¼ÆËã
+ * åŠ æ³•è®¡ç®—
  *
- * @×÷Õß£º
- * @µØµã£º
- * @Ê±¼ä£º
+ * @ä½œè€…ï¼šè‚–åˆæ–‡
+ * @åœ°ç‚¹ï¼š
+ * @æ—¶é—´ï¼š
  *
  */
 public class CalcorAdd implements Calcor{
